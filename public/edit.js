@@ -81,7 +81,7 @@ submitButton.addEventListener('click', async (event) => {
     setTimeout(() => {
         loadingTaskDOM.style.visibility = 'hidden'
         homeButton.style.visibility = 'visible'
-      }, 6000)
+      }, 5000)
 })
   
 
